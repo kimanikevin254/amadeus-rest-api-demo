@@ -10,5 +10,4 @@ fun Application.module() {
     configureSerialization()
     configureRouting()
     configureStatusPages()
-    configureAmadeus()
 }

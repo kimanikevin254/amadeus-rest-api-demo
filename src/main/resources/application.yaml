@@ -4,8 +4,3 @@ ktor:
             - com.example.ApplicationKt.module
     deployment:
         port: 8080
-
-amadeus:
-    baseUrl: "https://test.api.amadeus.com"
-    clientId: $AMADEUS_CLIENT_ID
-    clientSecret: $AMADEUS_CLIENT_SECRET
